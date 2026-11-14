@@ -1,0 +1,9 @@
+node_modules/
+.pptx-build/
+client/dist/
+client/.env
+server/.env
+.env
+prompt.md
+*.log
+.DS_Store
